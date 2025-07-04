@@ -1,2 +1,2 @@
 # .github
-The ✨special ✨ repository for this guthub organisation.
+The ✨special ✨ repository for this github organisation.
