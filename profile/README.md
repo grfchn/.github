@@ -1,6 +1,6 @@
 ## 🌙 GRFCHN
 
-Professional looking code that is not so professional.
+Experimenting minimalism in the digital space.
 
 <!--
 
